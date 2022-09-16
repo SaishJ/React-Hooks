@@ -5,3 +5,5 @@
 ### [useState with previous state](https://github.com/SaishJ/React-Hooks/commit/0efdee5596c18b7e7a4bb35d5eab970aa8cd06d9)
 
 ### [useState with Objects](https://github.com/SaishJ/React-Hooks/commit/bd0b9b3e324855a09ce8c554711a7f5d0a3636f7)
+
+### [useState with array](https://github.com/SaishJ/React-Hooks/commit/d2f22b5f8679b6c01112235a79da2ea3fc642175)

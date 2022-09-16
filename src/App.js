@@ -3,6 +3,7 @@ import Counter from "./components/Counter";
 import CounterFour from "./components/CounterFour";
 import CounterThree from "./components/CounterThree";
 import CounterTwo from "./components/CounterTwo";
+import EffectCounter from "./components/EffectCounter";
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
       {/* <Counter /> */}
       {/* <CounterTwo /> */}
       {/* <CounterThree /> */}
-      <CounterFour />
+      {/* <CounterFour /> */}
+      <EffectCounter />
     </div>
   );
 }
