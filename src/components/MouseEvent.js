@@ -13,6 +13,11 @@ function MouseEvent() {
   useEffect(() => {
     console.log("useEffect called");
     window.addEventListener("mousemove", logMousePosition);
+
+    return () => {
+      console.log("Cleanup code");
+      window.removeEventListener("mousemove", logMousePosition);
+    };
   }, []);
 
   // Simply passing an empty array as second parameter to useEffect for run effect only once.
