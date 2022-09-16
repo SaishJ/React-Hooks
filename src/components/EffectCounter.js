@@ -10,7 +10,8 @@ function EffectCounter() {
   }, [count]);
 
   /* To conditionally run effects specify the second parameter. Second parameter is array of value the effects depends on.
-  The value not change between renders the effects simply not run. */
+  The value not change between renders the effects simply not run. 
+  In above when count changes then only document title execute. */
 
   return (
     <div>
