@@ -7,3 +7,5 @@
 ### [useState with Objects](https://github.com/SaishJ/React-Hooks/commit/bd0b9b3e324855a09ce8c554711a7f5d0a3636f7)
 
 ### [useState with array](https://github.com/SaishJ/React-Hooks/commit/d2f22b5f8679b6c01112235a79da2ea3fc642175)
+
+### [useEffect Hook](https://github.com/SaishJ/React-Hooks/commit/cdbb6a018b808fd6b6d729a30f56182a2eebec3f)
