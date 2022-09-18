@@ -1,4 +1,6 @@
 import "./App.css";
+import React from "react";
+import ContextHook from "./components/ContextHook";
 import Counter from "./components/Counter";
 import CounterFour from "./components/CounterFour";
 import CounterThree from "./components/CounterThree";
@@ -9,6 +11,9 @@ import FetchData2 from "./components/FetchData2";
 import IntervalHook from "./components/IntervalHook";
 import MouseContainer from "./components/MouseContainer";
 import MouseEvent from "./components/MouseEvent";
+
+export const UserContext = React.createContext();
+export const ChannelContext = React.createContext();
 
 function App() {
   return (
@@ -22,7 +27,12 @@ function App() {
       {/* <MouseContainer /> */}
       {/* <IntervalHook /> */}
       {/* <EffectFetch /> */}
-      <FetchData2 />
+      {/* <FetchData2 /> */}
+      <UserContext.Provider value={"Saish"}>
+        <ChannelContext.Provider value={"SJ"}>
+          <ContextHook />
+        </ChannelContext.Provider>
+      </UserContext.Provider>
     </div>
   );
 }
