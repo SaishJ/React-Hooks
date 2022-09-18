@@ -13,3 +13,5 @@
    - ### [conditionally run effects](https://github.com/SaishJ/React-Hooks/commit/8d0d5536493e97e3af770dd9442d71e5757d9372)
 
    - ### [Run effects only once](https://github.com/SaishJ/React-Hooks/commit/d67594a857a92ca795a7a139b9a12896369d598e#diff-aaadd3de0f852853f655a0d25f198c1fdc251c158e61a3856e30e07a07cb24d4)
+
+   - ### [useEffect with cleanup](https://github.com/SaishJ/React-Hooks/commit/424be15f3d92004254beb9155babb1ceb5b2b801)
