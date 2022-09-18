@@ -4,6 +4,7 @@ import CounterFour from "./components/CounterFour";
 import CounterThree from "./components/CounterThree";
 import CounterTwo from "./components/CounterTwo";
 import EffectCounter from "./components/EffectCounter";
+import EffectFetch from "./components/EffectFetch";
 import IntervalHook from "./components/IntervalHook";
 import MouseContainer from "./components/MouseContainer";
 import MouseEvent from "./components/MouseEvent";
@@ -18,7 +19,8 @@ function App() {
       {/* <EffectCounter /> */}
       {/* <MouseEvent /> */}
       {/* <MouseContainer /> */}
-      <IntervalHook />
+      {/* <IntervalHook /> */}
+      <EffectFetch />
     </div>
   );
 }

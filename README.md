@@ -15,3 +15,5 @@
    - ### [Run effects only once](https://github.com/SaishJ/React-Hooks/commit/d67594a857a92ca795a7a139b9a12896369d598e#diff-aaadd3de0f852853f655a0d25f198c1fdc251c158e61a3856e30e07a07cb24d4)
 
    - ### [useEffect with cleanup](https://github.com/SaishJ/React-Hooks/commit/424be15f3d92004254beb9155babb1ceb5b2b801)
+
+   - ### [useEffect with Incorrect Dependency](https://github.com/SaishJ/React-Hooks/commit/1e60c74e00a9fa08ce8a91943f1a9e1c45dbfdf7)
