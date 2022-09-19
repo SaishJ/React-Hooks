@@ -11,6 +11,9 @@ import FetchData2 from "./components/FetchData2";
 import IntervalHook from "./components/IntervalHook";
 import MouseContainer from "./components/MouseContainer";
 import MouseEvent from "./components/MouseEvent";
+import ReducerOne from "./components/ReducerOne";
+import ReducerTwo from "./components/ReducerTwo";
+import ReducerThree from "./components/ReducerThree";
 
 export const UserContext = React.createContext();
 export const ChannelContext = React.createContext();
@@ -28,11 +31,14 @@ function App() {
       {/* <IntervalHook /> */}
       {/* <EffectFetch /> */}
       {/* <FetchData2 /> */}
-      <UserContext.Provider value={"Saish"}>
+      {/* <UserContext.Provider value={"Saish"}>
         <ChannelContext.Provider value={"SJ"}>
           <ContextHook />
         </ChannelContext.Provider>
-      </UserContext.Provider>
+      </UserContext.Provider> */}
+      {/* <ReducerOne /> */}
+      {/* <ReducerTwo /> */}
+      <ReducerThree />
     </div>
   );
 }
