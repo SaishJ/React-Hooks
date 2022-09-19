@@ -21,3 +21,7 @@
    - ### [Fetching data using useEffect](https://github.com/SaishJ/React-Hooks/commit/12c9d3e0f2111b30b1a1ea5ce7d7a599baed8f13)
 
 3. ### [useContext Hook](https://github.com/SaishJ/React-Hooks/commit/27b0f628b1af23f1d5330a4a8575cba381e62d3e)
+
+4. ### [useReducer Hook](https://github.com/SaishJ/React-Hooks/commit/4d5cb37c1d04d540712fa1540b4455fc0fd18027)
+
+   - ### [useReducer with useContext]()
