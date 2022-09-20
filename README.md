@@ -29,3 +29,7 @@
    - ### [Fetching Data using useReducer](https://github.com/SaishJ/React-Hooks/commit/7d727b5b57e90d9587964a3e1880d8634bdb73a4)
 
 5. ### [useCallback Hook](https://github.com/SaishJ/React-Hooks/commit/e531701218091d086d076f27d9d76ce21f493436)
+
+6. ### [useMemo Hook](https://github.com/SaishJ/React-Hooks/commit/41e6b6cc48b3a5c3de0a2e175453d24fca86dc4d#diff-0609dd3cb2ac6696220bdb78c2a12f99ec849e95dad16d94ef128ea41b43162b)
+
+7. ### [useRef Hook]()

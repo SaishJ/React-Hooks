@@ -21,6 +21,8 @@ import DataFetchingOne from "./components/DataFetchingOne";
 import DataFetchingTwo from "./components/DataFetchingTwo";
 import ParentComponent from "./components/ParentComponent";
 import MemoHook from "./components/MemoHook";
+import RefHookOne from "./components/RefHookOne";
+import RefHookTwo from "./components/RefHookTwo";
 
 export const UserContext = React.createContext();
 export const ChannelContext = React.createContext();
@@ -74,7 +76,9 @@ function App() {
       {/* <DataFetchingOne /> */}
       {/* <DataFetchingTwo /> */}
       {/* <ParentComponent /> */}
-      <MemoHook />
+      {/* <MemoHook /> */}
+      {/* <RefHookOne /> */}
+      <RefHookTwo />
     </div>
   );
 }
