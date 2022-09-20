@@ -20,6 +20,7 @@ import ComponentC from "./components/ComponentC";
 import DataFetchingOne from "./components/DataFetchingOne";
 import DataFetchingTwo from "./components/DataFetchingTwo";
 import ParentComponent from "./components/ParentComponent";
+import MemoHook from "./components/MemoHook";
 
 export const UserContext = React.createContext();
 export const ChannelContext = React.createContext();
@@ -72,7 +73,8 @@ function App() {
       </CountContext.Provider> */}
       {/* <DataFetchingOne /> */}
       {/* <DataFetchingTwo /> */}
-      <ParentComponent />
+      {/* <ParentComponent /> */}
+      <MemoHook />
     </div>
   );
 }
