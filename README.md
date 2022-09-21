@@ -34,8 +34,12 @@
 
 7. ### [useRef Hook](https://github.com/SaishJ/React-Hooks/commit/9761867f1c8c097c5c3f208a2248e667915fcb09)
 
-8. ### [Custom Hook]()
+8. ### [Custom Hook](https://github.com/SaishJ/React-Hooks/commit/3517748cc8477a7364305baf51789838e2747b25)
 
    > A custom hook is basically a JavaScript function whose name starts with "use". A custom hook can also call other hook if required.
 
-   - ### [useDocumentTitle]()
+   - ### [useDocumentTitle](https://github.com/SaishJ/React-Hooks/commit/3517748cc8477a7364305baf51789838e2747b25#diff-b482c3b9551a64077a0ddb79f1b40d75541a28dd14286225b6d3bc75eedded97)
+
+   - ### [useCounter](https://github.com/SaishJ/React-Hooks/commit/3517748cc8477a7364305baf51789838e2747b25#diff-435c3f0d6229278bddb8ab1d7eb9c76ef0d7c4f8edc4c89a3387b2b58214d882)
+
+   - ### [useInput](https://github.com/SaishJ/React-Hooks/commit/3517748cc8477a7364305baf51789838e2747b25#diff-ddea7a730b04353bae68187d4f8ab757e96fda077dd8960a52757bc90ebb00be)
