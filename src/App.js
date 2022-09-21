@@ -23,6 +23,9 @@ import ParentComponent from "./components/ParentComponent";
 import MemoHook from "./components/MemoHook";
 import RefHookOne from "./components/RefHookOne";
 import RefHookTwo from "./components/RefHookTwo";
+import DocTitle from "./components/DocTitle";
+import Increment from "./components/Increment";
+import UserForm from "./components/UserForm";
 
 export const UserContext = React.createContext();
 export const ChannelContext = React.createContext();
@@ -78,7 +81,10 @@ function App() {
       {/* <ParentComponent /> */}
       {/* <MemoHook /> */}
       {/* <RefHookOne /> */}
-      <RefHookTwo />
+      {/* <RefHookTwo /> */}
+      <DocTitle />
+      <Increment />
+      <UserForm />
     </div>
   );
 }

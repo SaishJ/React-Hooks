@@ -32,4 +32,10 @@
 
 6. ### [useMemo Hook](https://github.com/SaishJ/React-Hooks/commit/41e6b6cc48b3a5c3de0a2e175453d24fca86dc4d#diff-0609dd3cb2ac6696220bdb78c2a12f99ec849e95dad16d94ef128ea41b43162b)
 
-7. ### [useRef Hook]()
+7. ### [useRef Hook](https://github.com/SaishJ/React-Hooks/commit/9761867f1c8c097c5c3f208a2248e667915fcb09)
+
+8. ### [Custom Hook]()
+
+   > A custom hook is basically a JavaScript function whose name starts with "use". A custom hook can also call other hook if required.
+
+   - ### [useDocumentTitle]()
